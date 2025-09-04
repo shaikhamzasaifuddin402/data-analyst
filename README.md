@@ -74,7 +74,7 @@ Leverage the power of AI to gain deeper insights into your data. This feature in
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/azeebneuron/InsightGenie.git
+   git clone https://github.com/shaikhamzasaifuddin402/data-analyst.git
    cd streamlit-data-analysis-app
    ```
 
@@ -186,5 +186,6 @@ Contributions are welcome! Follow these steps:
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
